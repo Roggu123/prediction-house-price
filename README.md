@@ -16,10 +16,10 @@ Follow Github Flow
 
 ### Main Train Algorithm
 - SVM
-	- Decision Tree / Random decision forests
-	- Deep Learning
-	- K-means
-	- Naive Bayes classifier
+- Decision Tree / Random decision forests
+- Deep Learning
+- K-means
+- Naive Bayes classifier
 
 ### Project Structure
 Follow the structure from [https://n3xtchen.github.io/n3xtchen/data\_analytics/2017/05/17/data-science-project-rule][2]
